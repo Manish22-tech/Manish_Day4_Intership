@@ -1,0 +1,8 @@
+08-Aug-2025
+Today's Note:
+Today I learned how to make a Notes App in java using Swing and File I/o.
+I can now save and load my notes easily.
+08-Aug-2025
+Today's Note:
+Today I learned how to make a Notes App in java using Swing and File I/o.
+I can now save and load my notes easily.
